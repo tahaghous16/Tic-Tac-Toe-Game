@@ -28,13 +28,13 @@ This project showcases a two-player Tic-Tac-Toe game where players take turns to
 
 ## Live Demo
 
-You can view the live demo of the Tic-Tac-Toe game at: [Tic-Tac-Toe Game Live Demo](https://your-live-demo-link.com)
+You can view the live demo of the Tic-Tac-Toe game at: [Tic-Tac-Toe Game Live Demo]([https://your-live-demo-link.com](https://66cb4589bab9882607397ecd--zingy-palmier-e88407.netlify.app/))
 
 
 - **Clone the Repository**:
 
    ```bash
-   git clone https://github.com/tahaghous16/Tic-Tac-Toe-Game.git
+   https://github.com/tahaghous16/Tic-Tac-Toe-Game.git
 
 ## Conclusion
 
